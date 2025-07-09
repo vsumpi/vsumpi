@@ -5,5 +5,5 @@
 - 🎓 I'm currently studying at Obuda University, #OE-NIK
 - 📫 How to reach me: [Send me an email](mailto:vsumpi.szemelyes@gmail.com) / [LinkedIn](https://www.linkedin.com/in/vsumpi/)
 - ⚡ Fun fact: ADHD, public transport fan
-- 🧑‍💼 Available for hire from: Not currently available
+- 🧑‍💼 Available for hire from: Side hustle only
 - 📍 Budapest, Hungary
