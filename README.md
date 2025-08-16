@@ -5,7 +5,7 @@
 
 - 🛠️ I love making QoS updates, mods, tools; Useful guides, and others!
 - 🎓 I'm currently studying at Obuda University, #OE-NIK
-- 📫 How to reach me: [Send me an email](mailto:vsumpi.szemelyes@gmail.com) / [LinkedIn](https://www.linkedin.com/in/vsumpi/)
+- 📫 How to reach me: [Send me an email](mailto:vsumpi.szemelyes+ghbio@gmail.com) / [LinkedIn](https://www.linkedin.com/in/vsumpi/)
 - 📍 Budapest, Hungary
 
 ### I have some experience with the following...
