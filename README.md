@@ -1,27 +1,11 @@
 ## Heyoo 👋
 
-- 🔭 I’m currently working on a hobby project: ~~SimRail EVM120~~ [It's released!![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/vsumpi/simrail-evm-120/total)](https://github.com/vsumpi/simrail-evm-120)
+### Vibe coding and the side products:
 
+- 🚆 Virtual signalling for the game SimRail, [details](https://github.com/vsumpi/simrail-evm-120)
 
-- 🛠️ I love making QoS updates, mods, tools; Useful guides, and others!
-- 🎓 I'm currently studying at Obuda University, #OE-NIK
-- 📫 How to reach me: [Send me an email](mailto:vsumpi.szemelyes+ghbio@gmail.com) / [LinkedIn](https://www.linkedin.com/in/vsumpi/)
-- 📍 Budapest, Hungary
+  <img width="224" height="166" alt="image" src="https://github.com/user-attachments/assets/649deb00-57e0-461a-9aaa-8c0e22bfcd5b" />
 
-### I have some experience with the following...
+- 🖌️ Let there be grids! A tool for [wplace](https://wplace.live/) Guidelines to pixel art, [details](https://github.com/vsumpi/image-to-pixelgrid)
 
-Programming languages:
-
-[![My Skills](https://skillicons.dev/icons?i=py,cs,net,js,lua)](https://skillicons.dev)
-
-Hardware:
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
-
-Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,ps,ai,ae,blender,obsidian,notion)](https://skillicons.dev)
-
-Other:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,postgres,mysql,debian,mint,windows,md,qt)](https://skillicons.dev)
+  <img width="352" height="198" alt="elden" src="https://github.com/user-attachments/assets/7cd95a2a-e138-431f-90a6-a5dd831ac1cf" />
