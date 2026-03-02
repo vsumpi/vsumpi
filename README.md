@@ -9,3 +9,7 @@
 - 🖌️ Let there be grids! A tool for [wplace](https://wplace.live/) Guidelines to pixel art, [details](https://github.com/vsumpi/image-to-pixelgrid) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/vsumpi/image-to-pixelgrid/total)
 
   <img width="352" height="198" alt="elden" src="https://github.com/user-attachments/assets/7cd95a2a-e138-431f-90a6-a5dd831ac1cf" />
+  
+- 🔎 ÓE Moodle Badges for accessibility, [details](https://github.com/vsumpi/oe-moodle-badges)
+
+  <img height="352" alt="image" src="https://github.com/user-attachments/assets/ea6cf959-ca15-4161-a463-41490ffa5127" />
