@@ -1,15 +1,26 @@
-## Heyoo 👋
+# Heyoo 👋
 
-### Vibe coding and the side products:
+## 🛠️ My projects showcase
 
 - 🚆 Virtual signalling for the game SimRail, [details](https://github.com/vsumpi/simrail-evm-120) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/vsumpi/simrail-evm-120/total)](https://github.com/vsumpi/simrail-evm-120/releases/latest)
-
-  <img width="224" height="166" alt="image" src="https://github.com/user-attachments/assets/649deb00-57e0-461a-9aaa-8c0e22bfcd5b" />
-
 - 🖌️ Let there be grids! A tool for [wplace](https://wplace.live/) Guidelines to pixel art, [details](https://github.com/vsumpi/image-to-pixelgrid) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/vsumpi/image-to-pixelgrid/total)
-
-  <img width="352" height="198" alt="elden" src="https://github.com/user-attachments/assets/7cd95a2a-e138-431f-90a6-a5dd831ac1cf" />
-  
 - 🔎 ÓE Moodle Badges for accessibility, [details](https://github.com/vsumpi/oe-moodle-badges)
 
-  <img height="352" alt="image" src="https://github.com/user-attachments/assets/ea6cf959-ca15-4161-a463-41490ffa5127" />
+_If you like either of the projects above, please leave a Star for support, thank you._
+
+## 🏗️ My builds
+I have a few physical DIY projects including:
+- ⏱️ clock used at sports event, with automatic x second timer (64x32 led matrix, rpi4)
+- 🚆 dvj-2 clone as part of the [simrail-evm-120](https://github.com/vsumpi/simrail-evm-120) project [W.I.P.]
+- 🏎️ custom button box for simracing
+
+## 💪 My skills
+- fixing small electronic, including soldering
+- creating solutions for issues that requires a lot of tinkering
+- developing small useful tools
+- building, upgrading and diagnosing, computers and servers
+- planning and setting up IT infrastruture and solutions for small businesses
+
+## 🧑‍💻 Contact me
+If you'd like to collaborate or just say hi, feel free to reach out.
+You can find me as `vsumpi` at most platform, but I prefer Discord.
